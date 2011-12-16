@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CloudProjectActivity!</string>
+    <string name="app_name">CloudProject</string>
+    <string name="client_id">X4KFIR5JOLZPYRU0KUHTUNM5K4E4HPHLQISYT1NE0IUNRWWM</string>
+    <string name="Client_secret_key">WIBNJ3LKKA2P5TJDAYZ3KU2OLA1LV4TJEV5AXIBLIAIH3WMA</string>
+</resources>
